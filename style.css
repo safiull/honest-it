@@ -1,5 +1,7 @@
 body{
-    font-family: 'Rowdies', cursive;
+    /* font-family: 'Rowdies', cursive; */
+    font-family: SolaimanLipi;
+    
 }
 #address a{
     display: block;
@@ -28,7 +30,7 @@ body{
 }
 
 .process{
-    background: #f2ebe9;
+    background: #f3efee;
 }
 
 .process p{
