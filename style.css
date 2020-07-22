@@ -1,6 +1,7 @@
 body{
     /* font-family: 'Rowdies', cursive; */
     font-family: SolaimanLipi;
+    user-select: none;
     
 }
 #address a{
@@ -19,7 +20,7 @@ body{
 }
 
 #banner-part{
-    background-image: url('img/we.jpg');
+    background-image: url('img/dollers.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     min-height: 500px;
@@ -62,5 +63,12 @@ body{
 }
 .overlay{
     background: rgba(0, 0, 0, 0.7);
+    min-height: 200px;
+}
+
+#about-banner{
+    background-image: url('img/doller.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
     min-height: 200px;
 }
